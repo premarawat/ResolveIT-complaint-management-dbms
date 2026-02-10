@@ -1,0 +1,9 @@
+categoryid,categoryname,departmentid
+CAT001,Road / Infrastructure,D007
+CAT002,Water Related,D002
+CAT003,Waste & Sanitation,D008
+CAT004,Streetlight Issue,D009
+CAT005,Drainage,D001
+CAT006,Tree / Plantation,D006
+CAT007,Traffic Signal,D005
+CAT008,Power Cut,D004

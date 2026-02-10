@@ -1,0 +1,1507 @@
+complaintid,citizenid,departmentid,categoryid,complaintdetails,complaintstatus,created_at
+CMP00001,C0001,D007,CAT001,2023-10-01 about broken drainage cover in,Submitted,2023-10-01 10:30:00
+CMP00002,C0002,D002,CAT002,2023-04-10 irregular water supply in,In Progress,2023-04-10 10:30:00
+CMP00003,C0003,D008,CAT003,2023-07-10 garbage burning in open space.,Resolved,2023-07-10 10:30:00
+CMP00004,C0004,D009,CAT004,"2023-09-10 streetlight failure near Sector 14, Gurugram border.",Submitted,2023-09-10 10:30:00
+CMP00005,C0005,D001,CAT005,2023-12-10 about blocked manhole in,Closed,2023-12-10 10:30:00
+CMP00006,C0479,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-01 00:00:00
+CMP00007,C0045,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-08-12 00:00:00
+CMP00008,C0137,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-07-04 00:00:00
+CMP00009,C0693,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-12 00:00:00
+CMP00010,C0021,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-09-06 00:00:00
+CMP00011,C0360,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-04-25 00:00:00
+CMP00012,C0730,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-07-27 00:00:00
+CMP00013,C0087,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-06 00:00:00
+CMP00014,C0727,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-05-04 00:00:00
+CMP00015,C0689,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-03 00:00:00
+CMP00016,C0394,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-08-02 00:00:00
+CMP00017,C0347,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-08-21 00:00:00
+CMP00018,C0308,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-05-21 00:00:00
+CMP00019,C0871,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-01-05 00:00:00
+CMP00020,C0411,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-03-16 00:00:00
+CMP00021,C0705,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-13 00:00:00
+CMP00022,C0214,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-06-08 00:00:00
+CMP00023,C0316,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-01-25 00:00:00
+CMP00024,C0162,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-05-29 00:00:00
+CMP00025,C0452,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-08-25 00:00:00
+CMP00026,C0406,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-02-19 00:00:00
+CMP00027,C0429,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-06-28 00:00:00
+CMP00028,C0651,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-05-21 00:00:00
+CMP00029,C0867,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-04-22 00:00:00
+CMP00030,C0502,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-09-24 00:00:00
+CMP00031,C0498,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-09-24 00:00:00
+CMP00032,C0266,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-10-16 00:00:00
+CMP00033,C0443,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-02-03 00:00:00
+CMP00034,C0365,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-05-15 00:00:00
+CMP00035,C0315,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-08-21 00:00:00
+CMP00036,C0353,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-07-13 00:00:00
+CMP00037,C0125,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-08-23 00:00:00
+CMP00038,C0336,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-08-19 00:00:00
+CMP00039,C0475,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-09-16 00:00:00
+CMP00040,C0802,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-08-21 00:00:00
+CMP00041,C0533,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-09-15 00:00:00
+CMP00042,C0128,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-05-02 00:00:00
+CMP00043,C0505,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-03-04 00:00:00
+CMP00044,C0931,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-01-25 00:00:00
+CMP00045,C0180,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-07 00:00:00
+CMP00046,C0049,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-10-08 00:00:00
+CMP00047,C0213,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-17 00:00:00
+CMP00048,C0350,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-01-15 00:00:00
+CMP00049,C0664,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-10-04 00:00:00
+CMP00050,C0013,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-04-27 00:00:00
+CMP00051,C0361,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-09-16 00:00:00
+CMP00052,C0214,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-30 00:00:00
+CMP00053,C0433,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-03-05 00:00:00
+CMP00054,C0474,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-10-01 00:00:00
+CMP00055,C0464,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-07-27 00:00:00
+CMP00056,C0339,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-02-23 00:00:00
+CMP00057,C0482,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-08-14 00:00:00
+CMP00058,C0760,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-05-23 00:00:00
+CMP00059,C0617,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-01-28 00:00:00
+CMP00060,C0365,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-07-26 00:00:00
+CMP00061,C0458,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-06-02 00:00:00
+CMP00062,C0922,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-08-30 00:00:00
+CMP00063,C0878,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-08-22 00:00:00
+CMP00064,C0734,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-06-10 00:00:00
+CMP00065,C0286,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-08 00:00:00
+CMP00066,C0575,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-01-07 00:00:00
+CMP00067,C0595,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-02-04 00:00:00
+CMP00068,C0774,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-04-24 00:00:00
+CMP00069,C0459,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-07-24 00:00:00
+CMP00070,C0053,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-10-17 00:00:00
+CMP00071,C0750,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-05-29 00:00:00
+CMP00072,C0307,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-01-26 00:00:00
+CMP00073,C0071,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-06-12 00:00:00
+CMP00074,C0209,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-10-23 00:00:00
+CMP00075,C0918,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-05-17 00:00:00
+CMP00076,C0450,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-08-31 00:00:00
+CMP00077,C0244,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-01-05 00:00:00
+CMP00078,C0797,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-10-18 00:00:00
+CMP00079,C0374,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-08 00:00:00
+CMP00080,C0453,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-02-03 00:00:00
+CMP00081,C0794,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-10-19 00:00:00
+CMP00082,C0687,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-21 00:00:00
+CMP00083,C0566,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-20 00:00:00
+CMP00084,C0819,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-06-14 00:00:00
+CMP00085,C0389,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-07-22 00:00:00
+CMP00086,C0143,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-06-10 00:00:00
+CMP00087,C0465,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-03-12 00:00:00
+CMP00088,C0310,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-10-07 00:00:00
+CMP00089,C0720,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-09-29 00:00:00
+CMP00090,C0319,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-05-27 00:00:00
+CMP00091,C0066,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-26 00:00:00
+CMP00092,C0630,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-08-20 00:00:00
+CMP00093,C0450,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-04-01 00:00:00
+CMP00094,C0235,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-10-26 00:00:00
+CMP00095,C0940,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-05-29 00:00:00
+CMP00096,C0907,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-08-30 00:00:00
+CMP00097,C0506,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-05 00:00:00
+CMP00098,C0332,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-10-25 00:00:00
+CMP00099,C0391,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-06-14 00:00:00
+CMP00100,C0445,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-03-12 00:00:00
+CMP00101,C0689,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-04-11 00:00:00
+CMP00102,C0063,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-08-11 00:00:00
+CMP00103,C0117,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-03-26 00:00:00
+CMP00104,C0905,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-04-01 00:00:00
+CMP00105,C0471,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-01-23 00:00:00
+CMP00106,C0852,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-03-06 00:00:00
+CMP00107,C0793,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-08-29 00:00:00
+CMP00108,C0069,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-01-10 00:00:00
+CMP00109,C0540,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-04-27 00:00:00
+CMP00110,C0231,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-01-26 00:00:00
+CMP00111,C0395,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-06-24 00:00:00
+CMP00112,C0801,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-09-09 00:00:00
+CMP00113,C0620,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-05-11 00:00:00
+CMP00114,C0696,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-07-09 00:00:00
+CMP00115,C0613,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-03-21 00:00:00
+CMP00116,C0805,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-16 00:00:00
+CMP00117,C0810,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-05-23 00:00:00
+CMP00118,C0507,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-08-14 00:00:00
+CMP00119,C0549,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-06-29 00:00:00
+CMP00120,C0090,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-05-16 00:00:00
+CMP00121,C0022,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-10-17 00:00:00
+CMP00122,C0172,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-07-26 00:00:00
+CMP00123,C0530,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-01-01 00:00:00
+CMP00124,C0896,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-17 00:00:00
+CMP00125,C0990,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-09-23 00:00:00
+CMP00126,C0355,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-07-22 00:00:00
+CMP00127,C0604,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-08-22 00:00:00
+CMP00128,C0329,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-09-28 00:00:00
+CMP00129,C0411,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-08-28 00:00:00
+CMP00130,C0974,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-01-13 00:00:00
+CMP00131,C0080,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-10-13 00:00:00
+CMP00132,C0460,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-03-24 00:00:00
+CMP00133,C0674,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-03-13 00:00:00
+CMP00134,C0422,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-04-05 00:00:00
+CMP00135,C0917,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-08-17 00:00:00
+CMP00136,C0931,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-07-21 00:00:00
+CMP00137,C0063,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-05-07 00:00:00
+CMP00138,C0801,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-01-29 00:00:00
+CMP00139,C0030,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-10-23 00:00:00
+CMP00140,C0613,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-05-08 00:00:00
+CMP00141,C0274,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-06-05 00:00:00
+CMP00142,C0399,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-05-13 00:00:00
+CMP00143,C0537,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-03-01 00:00:00
+CMP00144,C0866,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-01-24 00:00:00
+CMP00145,C0876,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-06-10 00:00:00
+CMP00146,C0356,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-12 00:00:00
+CMP00147,C0895,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-07-13 00:00:00
+CMP00148,C0816,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-04-06 00:00:00
+CMP00149,C0584,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-10-16 00:00:00
+CMP00150,C0018,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-03-09 00:00:00
+CMP00151,C0188,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-09-10 00:00:00
+CMP00152,C0860,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-09-01 00:00:00
+CMP00153,C0511,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-07-22 00:00:00
+CMP00154,C0162,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-01-01 00:00:00
+CMP00155,C0500,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-02-17 00:00:00
+CMP00156,C0877,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-05-11 00:00:00
+CMP00157,C0480,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-01-10 00:00:00
+CMP00158,C0542,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-08-27 00:00:00
+CMP00159,C0004,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-04-09 00:00:00
+CMP00160,C0868,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-08-08 00:00:00
+CMP00161,C0027,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-01-13 00:00:00
+CMP00162,C0891,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-03-30 00:00:00
+CMP00163,C0341,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-21 00:00:00
+CMP00164,C0462,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-09-26 00:00:00
+CMP00165,C0950,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-10-06 00:00:00
+CMP00166,C0913,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-06-04 00:00:00
+CMP00167,C0927,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-02-17 00:00:00
+CMP00168,C0867,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-08-09 00:00:00
+CMP00169,C0100,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-02-22 00:00:00
+CMP00170,C0447,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-02-05 00:00:00
+CMP00171,C0526,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-03 00:00:00
+CMP00172,C0536,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-09-03 00:00:00
+CMP00173,C0189,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-05-21 00:00:00
+CMP00174,C0922,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-24 00:00:00
+CMP00175,C0656,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-08-25 00:00:00
+CMP00176,C0081,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-08-13 00:00:00
+CMP00177,C0463,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-07-11 00:00:00
+CMP00178,C0948,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-09-26 00:00:00
+CMP00179,C0095,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-07-05 00:00:00
+CMP00180,C0128,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-01-13 00:00:00
+CMP00181,C0027,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-09-10 00:00:00
+CMP00182,C0885,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-26 00:00:00
+CMP00183,C0797,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-05-27 00:00:00
+CMP00184,C0957,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-07-06 00:00:00
+CMP00185,C0416,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-03-29 00:00:00
+CMP00186,C0983,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-08-30 00:00:00
+CMP00187,C0783,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-08 00:00:00
+CMP00188,C0739,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-09-28 00:00:00
+CMP00189,C0355,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-08-16 00:00:00
+CMP00190,C0378,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-05-31 00:00:00
+CMP00191,C0064,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-07-18 00:00:00
+CMP00192,C0064,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-05-06 00:00:00
+CMP00193,C0803,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-09-07 00:00:00
+CMP00194,C0813,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-03-29 00:00:00
+CMP00195,C0807,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-10-27 00:00:00
+CMP00196,C0210,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-10 00:00:00
+CMP00197,C0675,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-09-11 00:00:00
+CMP00198,C0002,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-03-29 00:00:00
+CMP00199,C0981,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-06-13 00:00:00
+CMP00200,C0957,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-08-11 00:00:00
+CMP00201,C1000,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-29 00:00:00
+CMP00202,C0214,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-04-17 00:00:00
+CMP00203,C0994,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-09-05 00:00:00
+CMP00204,C0336,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-03-26 00:00:00
+CMP00205,C0473,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-13 00:00:00
+CMP00206,C0631,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-10-24 00:00:00
+CMP00207,C0167,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-05-05 00:00:00
+CMP00208,C0976,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-07-29 00:00:00
+CMP00209,C0763,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-07-16 00:00:00
+CMP00210,C0103,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-09-04 00:00:00
+CMP00211,C0831,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-03-22 00:00:00
+CMP00212,C0593,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-05-24 00:00:00
+CMP00213,C0656,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-09-20 00:00:00
+CMP00214,C0928,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-09-11 00:00:00
+CMP00215,C0789,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-09-04 00:00:00
+CMP00216,C0593,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-03-31 00:00:00
+CMP00217,C0257,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-02-11 00:00:00
+CMP00218,C0971,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-05-02 00:00:00
+CMP00219,C0094,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-10-20 00:00:00
+CMP00220,C0944,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-07-28 00:00:00
+CMP00221,C0136,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-08-25 00:00:00
+CMP00222,C0937,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-10-11 00:00:00
+CMP00223,C0657,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-09-14 00:00:00
+CMP00224,C0500,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-10-09 00:00:00
+CMP00225,C0172,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-17 00:00:00
+CMP00226,C0603,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-02 00:00:00
+CMP00227,C0921,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-21 00:00:00
+CMP00228,C0079,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-02-23 00:00:00
+CMP00229,C0235,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-01-14 00:00:00
+CMP00230,C0292,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-17 00:00:00
+CMP00231,C0141,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-21 00:00:00
+CMP00232,C0861,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-29 00:00:00
+CMP00233,C0536,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-07-11 00:00:00
+CMP00234,C0996,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-01-07 00:00:00
+CMP00235,C0230,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-14 00:00:00
+CMP00236,C0049,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-05-12 00:00:00
+CMP00237,C0690,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-01-27 00:00:00
+CMP00238,C0805,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-10-08 00:00:00
+CMP00239,C0836,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-03-12 00:00:00
+CMP00240,C0554,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-03-30 00:00:00
+CMP00241,C0656,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-10-16 00:00:00
+CMP00242,C0279,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-06-29 00:00:00
+CMP00243,C0035,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-05-29 00:00:00
+CMP00244,C0487,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-11 00:00:00
+CMP00245,C0489,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-04 00:00:00
+CMP00246,C0270,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-05-10 00:00:00
+CMP00247,C0095,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-05-24 00:00:00
+CMP00248,C0647,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-07-21 00:00:00
+CMP00249,C0691,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-07-09 00:00:00
+CMP00250,C0298,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-29 00:00:00
+CMP00251,C0257,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-01-07 00:00:00
+CMP00252,C0774,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-16 00:00:00
+CMP00253,C0854,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-02-28 00:00:00
+CMP00254,C0890,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-06-06 00:00:00
+CMP00255,C0536,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-02-02 00:00:00
+CMP00256,C0927,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-10-27 00:00:00
+CMP00257,C0888,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-05-30 00:00:00
+CMP00258,C0665,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-03-06 00:00:00
+CMP00259,C0446,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-04-17 00:00:00
+CMP00260,C0679,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-02-24 00:00:00
+CMP00261,C0093,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-26 00:00:00
+CMP00262,C0543,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-03-24 00:00:00
+CMP00263,C0609,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-21 00:00:00
+CMP00264,C0678,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-04-11 00:00:00
+CMP00265,C0352,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-02-08 00:00:00
+CMP00266,C0567,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-06-06 00:00:00
+CMP00267,C0543,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-03-27 00:00:00
+CMP00268,C0340,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-01-15 00:00:00
+CMP00269,C0718,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-05-24 00:00:00
+CMP00270,C0530,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-10-05 00:00:00
+CMP00271,C0670,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-08-01 00:00:00
+CMP00272,C0345,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-06-20 00:00:00
+CMP00273,C0668,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-01-14 00:00:00
+CMP00274,C0316,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-27 00:00:00
+CMP00275,C0486,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-06-25 00:00:00
+CMP00276,C0621,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-05-06 00:00:00
+CMP00277,C0851,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-06-30 00:00:00
+CMP00278,C0199,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-06-13 00:00:00
+CMP00279,C0602,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-03-01 00:00:00
+CMP00280,C0648,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-08-31 00:00:00
+CMP00281,C0877,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-09-17 00:00:00
+CMP00282,C0125,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-05-15 00:00:00
+CMP00283,C0345,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-05-10 00:00:00
+CMP00284,C0160,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-05-24 00:00:00
+CMP00285,C0079,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-04-05 00:00:00
+CMP00286,C0567,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-05-27 00:00:00
+CMP00287,C0835,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-04-04 00:00:00
+CMP00288,C0265,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-03-25 00:00:00
+CMP00289,C0620,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-04-05 00:00:00
+CMP00290,C0339,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-05-15 00:00:00
+CMP00291,C0978,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-01-20 00:00:00
+CMP00292,C0665,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-01-11 00:00:00
+CMP00293,C0097,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-10-26 00:00:00
+CMP00294,C0022,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-03-30 00:00:00
+CMP00295,C0832,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-09-14 00:00:00
+CMP00296,C0119,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-08-25 00:00:00
+CMP00297,C0337,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-29 00:00:00
+CMP00298,C0082,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-03-14 00:00:00
+CMP00299,C0116,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-09-18 00:00:00
+CMP00300,C0641,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-08-21 00:00:00
+CMP00301,C0992,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-01-07 00:00:00
+CMP00302,C0066,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-08-10 00:00:00
+CMP00303,C0772,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-07-07 00:00:00
+CMP00304,C0284,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-01-17 00:00:00
+CMP00305,C0520,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-09-15 00:00:00
+CMP00306,C0303,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-03-08 00:00:00
+CMP00307,C0028,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-04-27 00:00:00
+CMP00308,C0818,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-04-01 00:00:00
+CMP00309,C0023,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-06-24 00:00:00
+CMP00310,C0445,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-10-24 00:00:00
+CMP00311,C0541,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-10-17 00:00:00
+CMP00312,C0744,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-09-28 00:00:00
+CMP00313,C0613,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-04-17 00:00:00
+CMP00314,C0724,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-01-24 00:00:00
+CMP00315,C0101,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-03-08 00:00:00
+CMP00316,C0491,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-04-07 00:00:00
+CMP00317,C0764,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-01-28 00:00:00
+CMP00318,C0518,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-04-06 00:00:00
+CMP00319,C0238,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-09-23 00:00:00
+CMP00320,C0073,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-06-14 00:00:00
+CMP00321,C0840,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-02-25 00:00:00
+CMP00322,C0016,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-04-15 00:00:00
+CMP00323,C0218,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-03-09 00:00:00
+CMP00324,C0368,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-01-12 00:00:00
+CMP00325,C0901,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-09-09 00:00:00
+CMP00326,C0805,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-06-25 00:00:00
+CMP00327,C0764,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-01-06 00:00:00
+CMP00328,C0486,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-04-21 00:00:00
+CMP00329,C0894,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-07-18 00:00:00
+CMP00330,C0169,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-07-17 00:00:00
+CMP00331,C0783,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-10-19 00:00:00
+CMP00332,C0848,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-10-23 00:00:00
+CMP00333,C0630,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-05-13 00:00:00
+CMP00334,C0268,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-09-20 00:00:00
+CMP00335,C0209,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-04-21 00:00:00
+CMP00336,C0537,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-04-09 00:00:00
+CMP00337,C0991,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-04-10 00:00:00
+CMP00338,C0098,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-04-15 00:00:00
+CMP00339,C0839,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-10-05 00:00:00
+CMP00340,C0194,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-05-06 00:00:00
+CMP00341,C0266,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-01-02 00:00:00
+CMP00342,C0940,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-08-03 00:00:00
+CMP00343,C0701,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-02-23 00:00:00
+CMP00344,C0065,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-01-08 00:00:00
+CMP00345,C0424,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-06-03 00:00:00
+CMP00346,C0013,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-05-05 00:00:00
+CMP00347,C0828,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-08-14 00:00:00
+CMP00348,C0705,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-09-29 00:00:00
+CMP00349,C0106,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-05-10 00:00:00
+CMP00350,C0138,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-05-20 00:00:00
+CMP00351,C0244,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-03-25 00:00:00
+CMP00352,C0080,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-06-16 00:00:00
+CMP00353,C0670,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-03-15 00:00:00
+CMP00354,C0872,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-07-31 00:00:00
+CMP00355,C0600,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-06-19 00:00:00
+CMP00356,C0785,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-09-28 00:00:00
+CMP00357,C0856,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-06-20 00:00:00
+CMP00358,C0054,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-06-17 00:00:00
+CMP00359,C0366,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-05-25 00:00:00
+CMP00360,C0161,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-10-28 00:00:00
+CMP00361,C0635,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-02-10 00:00:00
+CMP00362,C0669,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-03-27 00:00:00
+CMP00363,C0705,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-06-29 00:00:00
+CMP00364,C0794,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-08-17 00:00:00
+CMP00365,C0010,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-27 00:00:00
+CMP00366,C0341,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-10-16 00:00:00
+CMP00367,C0639,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-10-03 00:00:00
+CMP00368,C0942,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-05-07 00:00:00
+CMP00369,C0329,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-01-14 00:00:00
+CMP00370,C0056,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-06-13 00:00:00
+CMP00371,C0748,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-18 00:00:00
+CMP00372,C0371,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-02-04 00:00:00
+CMP00373,C0456,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-03-19 00:00:00
+CMP00374,C0122,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-08-25 00:00:00
+CMP00375,C0471,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-04-28 00:00:00
+CMP00376,C0755,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-06-19 00:00:00
+CMP00377,C0231,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-25 00:00:00
+CMP00378,C0374,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-06-19 00:00:00
+CMP00379,C0363,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-10-10 00:00:00
+CMP00380,C0165,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-04-17 00:00:00
+CMP00381,C0671,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-03-07 00:00:00
+CMP00382,C0963,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-06-09 00:00:00
+CMP00383,C0014,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-05-17 00:00:00
+CMP00384,C0418,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-03-24 00:00:00
+CMP00385,C0693,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-01-31 00:00:00
+CMP00386,C0338,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-10-05 00:00:00
+CMP00387,C0597,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-05-18 00:00:00
+CMP00388,C0534,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-10-08 00:00:00
+CMP00389,C0888,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-09-20 00:00:00
+CMP00390,C0932,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-06-02 00:00:00
+CMP00391,C0311,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-03-03 00:00:00
+CMP00392,C0889,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-06-11 00:00:00
+CMP00393,C0743,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-02-17 00:00:00
+CMP00394,C0521,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-09-25 00:00:00
+CMP00395,C0481,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-02-27 00:00:00
+CMP00396,C0851,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-12 00:00:00
+CMP00397,C0434,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-10-24 00:00:00
+CMP00398,C0705,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-18 00:00:00
+CMP00399,C0373,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-06-14 00:00:00
+CMP00400,C0444,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-08-27 00:00:00
+CMP00401,C0469,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-07 00:00:00
+CMP00402,C0382,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-06-09 00:00:00
+CMP00403,C0700,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-09-05 00:00:00
+CMP00404,C0603,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-01-23 00:00:00
+CMP00405,C0043,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-01-22 00:00:00
+CMP00406,C0173,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-06-27 00:00:00
+CMP00407,C0184,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-05-03 00:00:00
+CMP00408,C0317,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-10-05 00:00:00
+CMP00409,C0365,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-03-19 00:00:00
+CMP00410,C0253,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-27 00:00:00
+CMP00411,C0437,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-01-29 00:00:00
+CMP00412,C0989,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-06-17 00:00:00
+CMP00413,C0664,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-01-16 00:00:00
+CMP00414,C0322,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-04-23 00:00:00
+CMP00415,C0365,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-06-01 00:00:00
+CMP00416,C0136,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-27 00:00:00
+CMP00417,C0773,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-10-22 00:00:00
+CMP00418,C0380,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-04-21 00:00:00
+CMP00419,C0006,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-09-11 00:00:00
+CMP00420,C0524,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-06-03 00:00:00
+CMP00421,C0036,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-04-02 00:00:00
+CMP00422,C0910,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-06-13 00:00:00
+CMP00423,C0719,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-01-22 00:00:00
+CMP00424,C0610,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-08-22 00:00:00
+CMP00425,C0709,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-01-02 00:00:00
+CMP00426,C0250,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-12 00:00:00
+CMP00427,C0032,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-20 00:00:00
+CMP00428,C0004,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-08-16 00:00:00
+CMP00429,C0421,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-06-02 00:00:00
+CMP00430,C0724,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-05-17 00:00:00
+CMP00431,C0931,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-02-05 00:00:00
+CMP00432,C0049,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-07-29 00:00:00
+CMP00433,C0905,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-10-14 00:00:00
+CMP00434,C0164,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-09-12 00:00:00
+CMP00435,C0017,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-09-19 00:00:00
+CMP00436,C0796,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-08-03 00:00:00
+CMP00437,C0544,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-05-17 00:00:00
+CMP00438,C0499,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-05-05 00:00:00
+CMP00439,C0152,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-07-11 00:00:00
+CMP00440,C0734,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-05-24 00:00:00
+CMP00441,C0924,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-14 00:00:00
+CMP00442,C0745,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-10-11 00:00:00
+CMP00443,C0725,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-01-24 00:00:00
+CMP00444,C0410,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-28 00:00:00
+CMP00445,C0876,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-02-23 00:00:00
+CMP00446,C0764,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-05-01 00:00:00
+CMP00447,C0443,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-06-28 00:00:00
+CMP00448,C0417,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-05-09 00:00:00
+CMP00449,C0562,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-04-07 00:00:00
+CMP00450,C0045,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-11 00:00:00
+CMP00451,C0800,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-05-05 00:00:00
+CMP00452,C0967,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-06-10 00:00:00
+CMP00453,C0427,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-03-26 00:00:00
+CMP00454,C0587,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-01-06 00:00:00
+CMP00455,C0456,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-07-30 00:00:00
+CMP00456,C0883,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-07-25 00:00:00
+CMP00457,C0891,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-08-15 00:00:00
+CMP00458,C0467,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-07-03 00:00:00
+CMP00459,C0449,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-05-30 00:00:00
+CMP00460,C0515,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-06-04 00:00:00
+CMP00461,C0359,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-03-31 00:00:00
+CMP00462,C0200,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-01-24 00:00:00
+CMP00463,C0801,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-08-15 00:00:00
+CMP00464,C0247,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-09-23 00:00:00
+CMP00465,C0002,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-06 00:00:00
+CMP00466,C0738,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-06-22 00:00:00
+CMP00467,C0501,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-08-09 00:00:00
+CMP00468,C0581,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-10-27 00:00:00
+CMP00469,C0847,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-04-23 00:00:00
+CMP00470,C0180,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-04-14 00:00:00
+CMP00471,C0276,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-06-24 00:00:00
+CMP00472,C0235,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-08-27 00:00:00
+CMP00473,C0927,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-02-01 00:00:00
+CMP00474,C0208,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-05 00:00:00
+CMP00475,C0998,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-05-08 00:00:00
+CMP00476,C0105,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-06-07 00:00:00
+CMP00477,C0697,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-16 00:00:00
+CMP00478,C0636,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-07-11 00:00:00
+CMP00479,C0406,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-08-24 00:00:00
+CMP00480,C0062,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-14 00:00:00
+CMP00481,C0970,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-03 00:00:00
+CMP00482,C0583,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-07-16 00:00:00
+CMP00483,C0939,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-07-23 00:00:00
+CMP00484,C0679,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-08-06 00:00:00
+CMP00485,C0567,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-02-02 00:00:00
+CMP00486,C0067,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-08-07 00:00:00
+CMP00487,C0322,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-04-21 00:00:00
+CMP00488,C0028,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-05-18 00:00:00
+CMP00489,C0878,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-06-21 00:00:00
+CMP00490,C0217,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-03-23 00:00:00
+CMP00491,C0122,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-10-06 00:00:00
+CMP00492,C0135,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-05-08 00:00:00
+CMP00493,C0454,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-05-20 00:00:00
+CMP00494,C0945,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-10-21 00:00:00
+CMP00495,C0552,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-09-19 00:00:00
+CMP00496,C0223,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-05-04 00:00:00
+CMP00497,C0114,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-06-27 00:00:00
+CMP00498,C0726,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-08-25 00:00:00
+CMP00499,C0797,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-09-20 00:00:00
+CMP00500,C0578,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-13 00:00:00
+CMP00501,C0177,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-02-26 00:00:00
+CMP00502,C0228,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-28 00:00:00
+CMP00503,C0880,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-01-12 00:00:00
+CMP00504,C0213,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-03-18 00:00:00
+CMP00505,C0750,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-27 00:00:00
+CMP00506,C0193,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-07-28 00:00:00
+CMP00507,C0613,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-08-24 00:00:00
+CMP00508,C0998,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-04-05 00:00:00
+CMP00509,C0555,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-01-12 00:00:00
+CMP00510,C0449,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-10-18 00:00:00
+CMP00511,C0631,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-03-19 00:00:00
+CMP00512,C0069,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-03-20 00:00:00
+CMP00513,C0333,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-12 00:00:00
+CMP00514,C0558,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-08-03 00:00:00
+CMP00515,C0840,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-06-21 00:00:00
+CMP00516,C0141,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-07-26 00:00:00
+CMP00517,C0035,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-05-25 00:00:00
+CMP00518,C0086,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-03-24 00:00:00
+CMP00519,C0571,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-07-07 00:00:00
+CMP00520,C0005,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-09-30 00:00:00
+CMP00521,C0258,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-08-16 00:00:00
+CMP00522,C0978,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-10-19 00:00:00
+CMP00523,C0720,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-10-22 00:00:00
+CMP00524,C0678,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-01-29 00:00:00
+CMP00525,C0578,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-09-12 00:00:00
+CMP00526,C0669,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-05-26 00:00:00
+CMP00527,C0243,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-01-31 00:00:00
+CMP00528,C0283,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-29 00:00:00
+CMP00529,C0761,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-03-21 00:00:00
+CMP00530,C0409,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-13 00:00:00
+CMP00531,C0679,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-06-29 00:00:00
+CMP00532,C0163,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-08-14 00:00:00
+CMP00533,C0683,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-06-01 00:00:00
+CMP00534,C0415,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-01-06 00:00:00
+CMP00535,C0676,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-03-30 00:00:00
+CMP00536,C0513,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-05-12 00:00:00
+CMP00537,C0794,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-08-09 00:00:00
+CMP00538,C0357,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-09-17 00:00:00
+CMP00539,C0847,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-06-11 00:00:00
+CMP00540,C0938,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-07-09 00:00:00
+CMP00541,C0092,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-05-24 00:00:00
+CMP00542,C0046,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-08-24 00:00:00
+CMP00543,C0423,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-05-24 00:00:00
+CMP00544,C0277,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-10-28 00:00:00
+CMP00545,C0583,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-01-20 00:00:00
+CMP00546,C0637,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-01-22 00:00:00
+CMP00547,C0878,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-02-21 00:00:00
+CMP00548,C0736,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-06-07 00:00:00
+CMP00549,C0019,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-02-04 00:00:00
+CMP00550,C0056,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-10-16 00:00:00
+CMP00551,C0362,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-03-02 00:00:00
+CMP00552,C0970,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-09-03 00:00:00
+CMP00553,C0233,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-03-16 00:00:00
+CMP00554,C0979,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-07-31 00:00:00
+CMP00555,C0130,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-04-13 00:00:00
+CMP00556,C0847,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-07-15 00:00:00
+CMP00557,C0943,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-03-12 00:00:00
+CMP00558,C0689,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-07-17 00:00:00
+CMP00559,C0542,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-02-08 00:00:00
+CMP00560,C0621,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-09-29 00:00:00
+CMP00561,C0262,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-02-14 00:00:00
+CMP00562,C0853,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-02-18 00:00:00
+CMP00563,C0575,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-10-18 00:00:00
+CMP00564,C0840,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-04-23 00:00:00
+CMP00565,C0598,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-10-01 00:00:00
+CMP00566,C0030,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-10-11 00:00:00
+CMP00567,C0939,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-05-24 00:00:00
+CMP00568,C0242,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-02-07 00:00:00
+CMP00569,C0805,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-10-12 00:00:00
+CMP00570,C0973,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-09-10 00:00:00
+CMP00571,C0840,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-01-14 00:00:00
+CMP00572,C0959,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-01-14 00:00:00
+CMP00573,C0193,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-05-21 00:00:00
+CMP00574,C0260,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-07-31 00:00:00
+CMP00575,C0305,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-06 00:00:00
+CMP00576,C0624,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-10-22 00:00:00
+CMP00577,C0750,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-02-11 00:00:00
+CMP00578,C0515,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-01-01 00:00:00
+CMP00579,C0144,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-10-18 00:00:00
+CMP00580,C0751,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-01-30 00:00:00
+CMP00581,C0778,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-04-04 00:00:00
+CMP00582,C0908,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-10-15 00:00:00
+CMP00583,C0893,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-03-05 00:00:00
+CMP00584,C0795,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-05-28 00:00:00
+CMP00585,C0910,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-02-07 00:00:00
+CMP00586,C0691,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-06-12 00:00:00
+CMP00587,C0019,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-03-31 00:00:00
+CMP00588,C0381,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-08-11 00:00:00
+CMP00589,C0901,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-06-05 00:00:00
+CMP00590,C0882,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-05-09 00:00:00
+CMP00591,C0819,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-01-23 00:00:00
+CMP00592,C0333,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-08-22 00:00:00
+CMP00593,C0892,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-08-06 00:00:00
+CMP00594,C0918,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-04-08 00:00:00
+CMP00595,C0100,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-08-02 00:00:00
+CMP00596,C0791,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-02-02 00:00:00
+CMP00597,C0021,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-06-09 00:00:00
+CMP00598,C0564,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-07-31 00:00:00
+CMP00599,C0650,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-10-24 00:00:00
+CMP00600,C0398,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-02-05 00:00:00
+CMP00601,C0486,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-01-18 00:00:00
+CMP00602,C0053,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-03-13 00:00:00
+CMP00603,C0472,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-09-10 00:00:00
+CMP00604,C0683,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-10-05 00:00:00
+CMP00605,C0990,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-03-08 00:00:00
+CMP00606,C0912,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-02-19 00:00:00
+CMP00607,C0114,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-08-01 00:00:00
+CMP00608,C0546,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-03-22 00:00:00
+CMP00609,C0258,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-10-18 00:00:00
+CMP00610,C0496,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-06-20 00:00:00
+CMP00611,C0571,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-05-19 00:00:00
+CMP00612,C0234,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-02-23 00:00:00
+CMP00613,C0399,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-04-29 00:00:00
+CMP00614,C0582,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-04-28 00:00:00
+CMP00615,C0123,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-04-29 00:00:00
+CMP00616,C0357,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-09-21 00:00:00
+CMP00617,C0853,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-04-22 00:00:00
+CMP00618,C0499,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-07-18 00:00:00
+CMP00619,C0944,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-03-26 00:00:00
+CMP00620,C0114,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-23 00:00:00
+CMP00621,C0819,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-09-24 00:00:00
+CMP00622,C0052,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-25 00:00:00
+CMP00623,C0726,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-10-27 00:00:00
+CMP00624,C0325,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-04-04 00:00:00
+CMP00625,C0241,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-16 00:00:00
+CMP00626,C0016,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-05-15 00:00:00
+CMP00627,C0977,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-04-22 00:00:00
+CMP00628,C0366,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-03-24 00:00:00
+CMP00629,C0377,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-07-10 00:00:00
+CMP00630,C0015,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-07-31 00:00:00
+CMP00631,C0314,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-08-10 00:00:00
+CMP00632,C0042,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-03-07 00:00:00
+CMP00633,C0575,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-08-03 00:00:00
+CMP00634,C0111,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-01-27 00:00:00
+CMP00635,C0413,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-04-28 00:00:00
+CMP00636,C0625,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-05-01 00:00:00
+CMP00637,C0607,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-02-25 00:00:00
+CMP00638,C0312,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-02-28 00:00:00
+CMP00639,C0141,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-07-05 00:00:00
+CMP00640,C0204,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-01-06 00:00:00
+CMP00641,C0625,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-02-25 00:00:00
+CMP00642,C0473,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-04-08 00:00:00
+CMP00643,C0244,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-27 00:00:00
+CMP00644,C0012,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-06-07 00:00:00
+CMP00645,C0126,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-09-02 00:00:00
+CMP00646,C0451,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-06-30 00:00:00
+CMP00647,C0748,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-14 00:00:00
+CMP00648,C0770,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-03-07 00:00:00
+CMP00649,C0935,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-08-31 00:00:00
+CMP00650,C0862,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-06-04 00:00:00
+CMP00651,C0820,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-02-04 00:00:00
+CMP00652,C0228,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-07-18 00:00:00
+CMP00653,C0521,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-05-09 00:00:00
+CMP00654,C0841,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-07-26 00:00:00
+CMP00655,C0578,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-07-19 00:00:00
+CMP00656,C0401,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-03-11 00:00:00
+CMP00657,C0142,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-05-29 00:00:00
+CMP00658,C0418,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-10-20 00:00:00
+CMP00659,C0422,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-01-19 00:00:00
+CMP00660,C0264,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-03-03 00:00:00
+CMP00661,C0023,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-02-24 00:00:00
+CMP00662,C0369,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-07-30 00:00:00
+CMP00663,C0744,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-08-29 00:00:00
+CMP00664,C0292,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-04-29 00:00:00
+CMP00665,C0536,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-03-27 00:00:00
+CMP00666,C0767,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-09-27 00:00:00
+CMP00667,C0832,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-21 00:00:00
+CMP00668,C0984,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-03-17 00:00:00
+CMP00669,C0874,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-08-04 00:00:00
+CMP00670,C0713,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-08-25 00:00:00
+CMP00671,C0906,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-07-09 00:00:00
+CMP00672,C0337,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-08-09 00:00:00
+CMP00673,C0810,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-09-09 00:00:00
+CMP00674,C0072,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-08-25 00:00:00
+CMP00675,C0686,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-09-07 00:00:00
+CMP00676,C0194,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-08-07 00:00:00
+CMP00677,C0472,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-01-25 00:00:00
+CMP00678,C0747,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-02-06 00:00:00
+CMP00679,C0120,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-01-08 00:00:00
+CMP00680,C0941,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-27 00:00:00
+CMP00681,C0623,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-09-24 00:00:00
+CMP00682,C0454,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-05-14 00:00:00
+CMP00683,C0771,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-01-13 00:00:00
+CMP00684,C0822,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-08-13 00:00:00
+CMP00685,C0846,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-12 00:00:00
+CMP00686,C0384,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-10-08 00:00:00
+CMP00687,C0226,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-01-01 00:00:00
+CMP00688,C0282,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-03-19 00:00:00
+CMP00689,C0517,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-01-05 00:00:00
+CMP00690,C0084,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-04-26 00:00:00
+CMP00691,C0837,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-04-22 00:00:00
+CMP00692,C0080,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-11 00:00:00
+CMP00693,C0897,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-07-17 00:00:00
+CMP00694,C0463,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-04-13 00:00:00
+CMP00695,C0261,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-05-25 00:00:00
+CMP00696,C0930,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-07-19 00:00:00
+CMP00697,C0897,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-03-16 00:00:00
+CMP00698,C0989,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-03-30 00:00:00
+CMP00699,C0363,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-01-18 00:00:00
+CMP00700,C0291,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-08-13 00:00:00
+CMP00701,C0133,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-05-29 00:00:00
+CMP00702,C0581,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-06-09 00:00:00
+CMP00703,C0228,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-19 00:00:00
+CMP00704,C0324,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-09-01 00:00:00
+CMP00705,C0898,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-05-06 00:00:00
+CMP00706,C0062,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-07-26 00:00:00
+CMP00707,C0579,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-07-29 00:00:00
+CMP00708,C0059,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-08-26 00:00:00
+CMP00709,C0981,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-06-24 00:00:00
+CMP00710,C0982,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-10-26 00:00:00
+CMP00711,C0568,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-09-17 00:00:00
+CMP00712,C0979,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-09-29 00:00:00
+CMP00713,C0212,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-02-25 00:00:00
+CMP00714,C0553,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-06-08 00:00:00
+CMP00715,C0831,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-08-07 00:00:00
+CMP00716,C0330,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-03-21 00:00:00
+CMP00717,C0325,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-08-18 00:00:00
+CMP00718,C0682,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-09-28 00:00:00
+CMP00719,C0654,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-03-07 00:00:00
+CMP00720,C0434,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-09-18 00:00:00
+CMP00721,C0390,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-01-14 00:00:00
+CMP00722,C0018,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-09-06 00:00:00
+CMP00723,C0482,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-10-28 00:00:00
+CMP00724,C0560,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-10-01 00:00:00
+CMP00725,C0844,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-09-03 00:00:00
+CMP00726,C0937,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-08-20 00:00:00
+CMP00727,C0506,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-04-22 00:00:00
+CMP00728,C0839,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-06-21 00:00:00
+CMP00729,C0322,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-15 00:00:00
+CMP00730,C0419,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-10-05 00:00:00
+CMP00731,C0849,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-07-08 00:00:00
+CMP00732,C0630,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-03-11 00:00:00
+CMP00733,C0892,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-04-29 00:00:00
+CMP00734,C0669,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-09-03 00:00:00
+CMP00735,C0489,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-01-05 00:00:00
+CMP00736,C0500,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-01-26 00:00:00
+CMP00737,C0916,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-08-24 00:00:00
+CMP00738,C0546,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-06-20 00:00:00
+CMP00739,C0542,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-05-28 00:00:00
+CMP00740,C0296,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-01-06 00:00:00
+CMP00741,C0519,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-10-12 00:00:00
+CMP00742,C0675,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-09-26 00:00:00
+CMP00743,C0292,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-03-22 00:00:00
+CMP00744,C0145,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-06-08 00:00:00
+CMP00745,C0991,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-04-11 00:00:00
+CMP00746,C0859,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-09-24 00:00:00
+CMP00747,C0833,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-03-25 00:00:00
+CMP00748,C0329,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-03-05 00:00:00
+CMP00749,C0114,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-10-22 00:00:00
+CMP00750,C0631,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-10-13 00:00:00
+CMP00751,C0773,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-02-09 00:00:00
+CMP00752,C0546,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-09-01 00:00:00
+CMP00753,C0312,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-09-15 00:00:00
+CMP00754,C0003,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-05-27 00:00:00
+CMP00755,C0585,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-04-12 00:00:00
+CMP00756,C0574,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-10-21 00:00:00
+CMP00757,C0253,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-09-01 00:00:00
+CMP00758,C0382,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-04-03 00:00:00
+CMP00759,C0462,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-09-20 00:00:00
+CMP00760,C0875,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-10-05 00:00:00
+CMP00761,C0093,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-10-01 00:00:00
+CMP00762,C0072,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-06-09 00:00:00
+CMP00763,C0027,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-05-28 00:00:00
+CMP00764,C0471,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-03-31 00:00:00
+CMP00765,C0013,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-05-07 00:00:00
+CMP00766,C0313,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-09-24 00:00:00
+CMP00767,C0028,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-03-30 00:00:00
+CMP00768,C0413,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-08-03 00:00:00
+CMP00769,C0681,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-20 00:00:00
+CMP00770,C0932,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-16 00:00:00
+CMP00771,C0430,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-01-16 00:00:00
+CMP00772,C0893,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-10-05 00:00:00
+CMP00773,C0935,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-02-04 00:00:00
+CMP00774,C0474,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-02-07 00:00:00
+CMP00775,C0088,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-07-14 00:00:00
+CMP00776,C0462,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-09-28 00:00:00
+CMP00777,C0597,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-13 00:00:00
+CMP00778,C0524,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-01-21 00:00:00
+CMP00779,C0112,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-07-28 00:00:00
+CMP00780,C0135,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-12 00:00:00
+CMP00781,C0275,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-05-21 00:00:00
+CMP00782,C0622,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-01-08 00:00:00
+CMP00783,C0763,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-04-12 00:00:00
+CMP00784,C0653,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-07-30 00:00:00
+CMP00785,C0805,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-04-20 00:00:00
+CMP00786,C0586,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-06-19 00:00:00
+CMP00787,C0670,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-02-20 00:00:00
+CMP00788,C0267,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-04-08 00:00:00
+CMP00789,C0199,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-05-15 00:00:00
+CMP00790,C0782,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-02-08 00:00:00
+CMP00791,C0865,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-08-10 00:00:00
+CMP00792,C0675,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-03-08 00:00:00
+CMP00793,C0874,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-04-18 00:00:00
+CMP00794,C0083,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-10-17 00:00:00
+CMP00795,C0803,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-01-18 00:00:00
+CMP00796,C0834,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-06-06 00:00:00
+CMP00797,C0805,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-14 00:00:00
+CMP00798,C0141,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-25 00:00:00
+CMP00799,C0328,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-04-18 00:00:00
+CMP00800,C0606,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-04-13 00:00:00
+CMP00801,C0854,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-10-09 00:00:00
+CMP00802,C0455,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-08-14 00:00:00
+CMP00803,C0314,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-03-09 00:00:00
+CMP00804,C0237,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-03-04 00:00:00
+CMP00805,C0751,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-07-19 00:00:00
+CMP00806,C0265,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-07-14 00:00:00
+CMP00807,C0218,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-07-16 00:00:00
+CMP00808,C0649,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-08-11 00:00:00
+CMP00809,C0080,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-07-30 00:00:00
+CMP00810,C0134,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-04-23 00:00:00
+CMP00811,C0712,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-06-01 00:00:00
+CMP00812,C0949,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-10-20 00:00:00
+CMP00813,C0057,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-09-03 00:00:00
+CMP00814,C0665,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-09-24 00:00:00
+CMP00815,C0370,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-10-15 00:00:00
+CMP00816,C0039,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-04-25 00:00:00
+CMP00817,C0251,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-04-28 00:00:00
+CMP00818,C0138,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-09-16 00:00:00
+CMP00819,C0707,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-04-06 00:00:00
+CMP00820,C0098,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-02-19 00:00:00
+CMP00821,C0099,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-06-14 00:00:00
+CMP00822,C0057,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-02-11 00:00:00
+CMP00823,C0893,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-04-16 00:00:00
+CMP00824,C0663,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-01-08 00:00:00
+CMP00825,C0378,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-04-11 00:00:00
+CMP00826,C0783,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-05-23 00:00:00
+CMP00827,C0616,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-05-07 00:00:00
+CMP00828,C0113,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-07-12 00:00:00
+CMP00829,C0759,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-09-20 00:00:00
+CMP00830,C0802,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-04-22 00:00:00
+CMP00831,C0957,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-05 00:00:00
+CMP00832,C0351,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-06-10 00:00:00
+CMP00833,C0761,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-01-31 00:00:00
+CMP00834,C0307,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-04-08 00:00:00
+CMP00835,C0650,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-01-18 00:00:00
+CMP00836,C0761,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-04-28 00:00:00
+CMP00837,C0123,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-01 00:00:00
+CMP00838,C0432,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-03 00:00:00
+CMP00839,C0599,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-10-10 00:00:00
+CMP00840,C0284,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-02-28 00:00:00
+CMP00841,C0406,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-07-08 00:00:00
+CMP00842,C0296,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-01-11 00:00:00
+CMP00843,C0449,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-10 00:00:00
+CMP00844,C0715,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-09-16 00:00:00
+CMP00845,C0277,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-05-19 00:00:00
+CMP00846,C0992,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-03-07 00:00:00
+CMP00847,C0440,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-08-18 00:00:00
+CMP00848,C0892,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-01-01 00:00:00
+CMP00849,C0414,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-04-08 00:00:00
+CMP00850,C0624,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-01-28 00:00:00
+CMP00851,C0658,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-06-18 00:00:00
+CMP00852,C0307,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-10-14 00:00:00
+CMP00853,C0218,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-09-17 00:00:00
+CMP00854,C0255,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-05-09 00:00:00
+CMP00855,C0393,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-06-07 00:00:00
+CMP00856,C0386,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-07-27 00:00:00
+CMP00857,C0797,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-02-24 00:00:00
+CMP00858,C0138,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-06-29 00:00:00
+CMP00859,C0174,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-10-08 00:00:00
+CMP00860,C0083,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-03-12 00:00:00
+CMP00861,C0546,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-06-26 00:00:00
+CMP00862,C0096,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-10-13 00:00:00
+CMP00863,C0018,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-06-14 00:00:00
+CMP00864,C0334,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-10-12 00:00:00
+CMP00865,C0082,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-07-03 00:00:00
+CMP00866,C0577,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-04-27 00:00:00
+CMP00867,C0909,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-04-22 00:00:00
+CMP00868,C0196,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-03-09 00:00:00
+CMP00869,C0327,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-02-09 00:00:00
+CMP00870,C0809,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-01-23 00:00:00
+CMP00871,C0785,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-15 00:00:00
+CMP00872,C0228,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-07-16 00:00:00
+CMP00873,C0426,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-25 00:00:00
+CMP00874,C0655,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-05-13 00:00:00
+CMP00875,C0094,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-09-27 00:00:00
+CMP00876,C0343,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-03-04 00:00:00
+CMP00877,C0021,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-02-23 00:00:00
+CMP00878,C0619,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-21 00:00:00
+CMP00879,C0881,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-07-19 00:00:00
+CMP00880,C0976,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-05 00:00:00
+CMP00881,C0988,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-21 00:00:00
+CMP00882,C0947,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-04-19 00:00:00
+CMP00883,C0058,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-01-10 00:00:00
+CMP00884,C0104,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-09-09 00:00:00
+CMP00885,C0741,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-10-24 00:00:00
+CMP00886,C0174,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-07-26 00:00:00
+CMP00887,C0180,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-04-21 00:00:00
+CMP00888,C0041,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-10-05 00:00:00
+CMP00889,C0153,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-08-03 00:00:00
+CMP00890,C0827,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-03 00:00:00
+CMP00891,C0076,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-06-01 00:00:00
+CMP00892,C0615,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-05-29 00:00:00
+CMP00893,C0239,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-08-23 00:00:00
+CMP00894,C0838,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-02-05 00:00:00
+CMP00895,C0914,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-02-18 00:00:00
+CMP00896,C0185,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-08-17 00:00:00
+CMP00897,C0477,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-03-05 00:00:00
+CMP00898,C0311,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-09-28 00:00:00
+CMP00899,C0467,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-10-18 00:00:00
+CMP00900,C0224,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-30 00:00:00
+CMP00901,C0993,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-08-10 00:00:00
+CMP00902,C0881,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-06-17 00:00:00
+CMP00903,C0124,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-10-18 00:00:00
+CMP00904,C0544,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-03-28 00:00:00
+CMP00905,C0645,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-07-12 00:00:00
+CMP00906,C0239,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-02-25 00:00:00
+CMP00907,C0346,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-16 00:00:00
+CMP00908,C0505,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-07-06 00:00:00
+CMP00909,C0691,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-01-02 00:00:00
+CMP00910,C0404,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-01-04 00:00:00
+CMP00911,C0283,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-08-01 00:00:00
+CMP00912,C0349,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-05-04 00:00:00
+CMP00913,C0759,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-05-22 00:00:00
+CMP00914,C0808,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-02-26 00:00:00
+CMP00915,C0029,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-04-09 00:00:00
+CMP00916,C0793,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-10-17 00:00:00
+CMP00917,C0129,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-10-14 00:00:00
+CMP00918,C0284,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-04-12 00:00:00
+CMP00919,C0654,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-05-20 00:00:00
+CMP00920,C0306,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-05-29 00:00:00
+CMP00921,C0855,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-04-23 00:00:00
+CMP00922,C0291,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-04-06 00:00:00
+CMP00923,C0527,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-07-12 00:00:00
+CMP00924,C0983,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-10-22 00:00:00
+CMP00925,C0650,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-08-15 00:00:00
+CMP00926,C0112,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-08-10 00:00:00
+CMP00927,C0469,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-02-04 00:00:00
+CMP00928,C0472,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-12 00:00:00
+CMP00929,C0222,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-10-08 00:00:00
+CMP00930,C0323,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-05-01 00:00:00
+CMP00931,C0486,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-03-10 00:00:00
+CMP00932,C0566,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-09-20 00:00:00
+CMP00933,C0276,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-05-03 00:00:00
+CMP00934,C0150,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-05-13 00:00:00
+CMP00935,C0777,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-01-11 00:00:00
+CMP00936,C0342,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-07-12 00:00:00
+CMP00937,C0713,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-07-08 00:00:00
+CMP00938,C0872,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-03-27 00:00:00
+CMP00939,C0062,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-06-13 00:00:00
+CMP00940,C0086,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-02-05 00:00:00
+CMP00941,C0482,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-23 00:00:00
+CMP00942,C0021,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-08-09 00:00:00
+CMP00943,C0114,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-09-19 00:00:00
+CMP00944,C0253,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-02 00:00:00
+CMP00945,C0441,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-09-18 00:00:00
+CMP00946,C0132,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-06-06 00:00:00
+CMP00947,C0390,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-01-15 00:00:00
+CMP00948,C0700,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-10-23 00:00:00
+CMP00949,C0004,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-06-02 00:00:00
+CMP00950,C0040,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-04-10 00:00:00
+CMP00951,C0807,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-06-27 00:00:00
+CMP00952,C0179,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-02-18 00:00:00
+CMP00953,C0616,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-07-02 00:00:00
+CMP00954,C0996,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-06-04 00:00:00
+CMP00955,C0750,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-01-05 00:00:00
+CMP00956,C0989,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-07-31 00:00:00
+CMP00957,C0417,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-05-20 00:00:00
+CMP00958,C0319,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-09-10 00:00:00
+CMP00959,C0082,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-01-29 00:00:00
+CMP00960,C0634,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-08-14 00:00:00
+CMP00961,C0222,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-05-15 00:00:00
+CMP00962,C0788,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-03-17 00:00:00
+CMP00963,C0366,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-02-07 00:00:00
+CMP00964,C0324,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-09 00:00:00
+CMP00965,C0282,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-04-17 00:00:00
+CMP00966,C0157,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-05-30 00:00:00
+CMP00967,C0909,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-04-07 00:00:00
+CMP00968,C0619,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-05-23 00:00:00
+CMP00969,C0671,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-08-31 00:00:00
+CMP00970,C0961,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-02-08 00:00:00
+CMP00971,C0623,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-04-29 00:00:00
+CMP00972,C0338,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-04-01 00:00:00
+CMP00973,C0755,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-06-11 00:00:00
+CMP00974,C1000,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-09-10 00:00:00
+CMP00975,C0061,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-07-09 00:00:00
+CMP00976,C0343,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-01-31 00:00:00
+CMP00977,C0103,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-05-25 00:00:00
+CMP00978,C0114,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-09-07 00:00:00
+CMP00979,C0909,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-10-24 00:00:00
+CMP00980,C0650,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-01-22 00:00:00
+CMP00981,C0682,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-07-03 00:00:00
+CMP00982,C0979,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-01-25 00:00:00
+CMP00983,C0979,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-01-23 00:00:00
+CMP00984,C0225,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-02-23 00:00:00
+CMP00985,C0715,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-05-31 00:00:00
+CMP00986,C0746,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-10-11 00:00:00
+CMP00987,C0230,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-08-26 00:00:00
+CMP00988,C0813,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-01-26 00:00:00
+CMP00989,C0750,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-09-27 00:00:00
+CMP00990,C0800,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-03-06 00:00:00
+CMP00991,C0529,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-06-03 00:00:00
+CMP00992,C0503,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-11 00:00:00
+CMP00993,C0050,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-07-11 00:00:00
+CMP00994,C0854,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-01-08 00:00:00
+CMP00995,C0313,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-03-08 00:00:00
+CMP00996,C0330,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-05-28 00:00:00
+CMP00997,C0380,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-21 00:00:00
+CMP00998,C0251,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-10-05 00:00:00
+CMP00999,C0195,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-01-29 00:00:00
+CMP01000,C0375,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-02-02 00:00:00
+CMP01001,C0913,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-01-27 00:00:00
+CMP01002,C0106,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-04-19 00:00:00
+CMP01003,C0419,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-04-13 00:00:00
+CMP01004,C0421,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-03-30 00:00:00
+CMP01005,C0659,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-10-09 00:00:00
+CMP01006,C0879,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-03-19 00:00:00
+CMP01007,C0266,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-06-17 00:00:00
+CMP01008,C0810,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-08-28 00:00:00
+CMP01009,C0234,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-27 00:00:00
+CMP01010,C0564,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-10-11 00:00:00
+CMP01011,C0157,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-09-13 00:00:00
+CMP01012,C0355,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-01-06 00:00:00
+CMP01013,C0801,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-02-04 00:00:00
+CMP01014,C0308,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-05-07 00:00:00
+CMP01015,C0301,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-03-18 00:00:00
+CMP01016,C0813,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-02-18 00:00:00
+CMP01017,C0204,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-02 00:00:00
+CMP01018,C0609,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-10 00:00:00
+CMP01019,C0256,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-04-19 00:00:00
+CMP01020,C0307,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-04-26 00:00:00
+CMP01021,C0657,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-03-31 00:00:00
+CMP01022,C0904,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-02-24 00:00:00
+CMP01023,C0306,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-10-03 00:00:00
+CMP01024,C0648,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-08-20 00:00:00
+CMP01025,C0712,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-01-19 00:00:00
+CMP01026,C0989,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-05-18 00:00:00
+CMP01027,C0989,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-10-23 00:00:00
+CMP01028,C0838,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-05-27 00:00:00
+CMP01029,C0202,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-06-25 00:00:00
+CMP01030,C0986,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-07-11 00:00:00
+CMP01031,C0194,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-04-30 00:00:00
+CMP01032,C0316,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-04-04 00:00:00
+CMP01033,C0599,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-01-07 00:00:00
+CMP01034,C0989,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-07 00:00:00
+CMP01035,C0015,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-02-25 00:00:00
+CMP01036,C0716,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-03-10 00:00:00
+CMP01037,C0864,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-06-06 00:00:00
+CMP01038,C0193,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-09-18 00:00:00
+CMP01039,C0737,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-03-28 00:00:00
+CMP01040,C0279,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-02-24 00:00:00
+CMP01041,C0437,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-18 00:00:00
+CMP01042,C0454,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-03-09 00:00:00
+CMP01043,C0902,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-08-04 00:00:00
+CMP01044,C0714,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-03-19 00:00:00
+CMP01045,C0596,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-04-05 00:00:00
+CMP01046,C0428,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-15 00:00:00
+CMP01047,C0494,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-06-24 00:00:00
+CMP01048,C0423,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-06-18 00:00:00
+CMP01049,C0478,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-10-01 00:00:00
+CMP01050,C0736,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-01-21 00:00:00
+CMP01051,C0675,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-02-23 00:00:00
+CMP01052,C0286,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-03-31 00:00:00
+CMP01053,C0003,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-02-17 00:00:00
+CMP01054,C0405,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-04-14 00:00:00
+CMP01055,C0504,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-06-11 00:00:00
+CMP01056,C0068,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-07-29 00:00:00
+CMP01057,C0945,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-08-27 00:00:00
+CMP01058,C0199,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-09-20 00:00:00
+CMP01059,C0983,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-01-25 00:00:00
+CMP01060,C0269,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-09-21 00:00:00
+CMP01061,C0262,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-07-31 00:00:00
+CMP01062,C0397,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-02-18 00:00:00
+CMP01063,C0817,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-05-03 00:00:00
+CMP01064,C0434,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-04-22 00:00:00
+CMP01065,C0080,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-09-15 00:00:00
+CMP01066,C0971,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-03-13 00:00:00
+CMP01067,C0434,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-10-19 00:00:00
+CMP01068,C0381,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-07-09 00:00:00
+CMP01069,C0477,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-18 00:00:00
+CMP01070,C0358,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-03-05 00:00:00
+CMP01071,C0155,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-03-06 00:00:00
+CMP01072,C0627,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-02-27 00:00:00
+CMP01073,C0165,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-05-29 00:00:00
+CMP01074,C0779,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-05-01 00:00:00
+CMP01075,C0504,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-05-09 00:00:00
+CMP01076,C0814,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-02-06 00:00:00
+CMP01077,C0830,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-07-19 00:00:00
+CMP01078,C0301,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-02-25 00:00:00
+CMP01079,C0653,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-08-16 00:00:00
+CMP01080,C0708,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-01-09 00:00:00
+CMP01081,C0689,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-01 00:00:00
+CMP01082,C0309,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-03 00:00:00
+CMP01083,C0334,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-07-10 00:00:00
+CMP01084,C0068,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-09-30 00:00:00
+CMP01085,C0922,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-24 00:00:00
+CMP01086,C0819,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-07-17 00:00:00
+CMP01087,C0524,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-05-12 00:00:00
+CMP01088,C0012,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-01-20 00:00:00
+CMP01089,C0240,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-01-31 00:00:00
+CMP01090,C0840,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-02-15 00:00:00
+CMP01091,C0147,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-04-13 00:00:00
+CMP01092,C0826,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-02-08 00:00:00
+CMP01093,C0536,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-07-13 00:00:00
+CMP01094,C0467,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-06-03 00:00:00
+CMP01095,C0252,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-03-21 00:00:00
+CMP01096,C0968,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-10-23 00:00:00
+CMP01097,C0441,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-06-22 00:00:00
+CMP01098,C0215,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-02-06 00:00:00
+CMP01099,C0574,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-02-19 00:00:00
+CMP01100,C0256,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-05-15 00:00:00
+CMP01101,C0677,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-07-03 00:00:00
+CMP01102,C0951,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-13 00:00:00
+CMP01103,C0059,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-01-18 00:00:00
+CMP01104,C0042,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-09-28 00:00:00
+CMP01105,C0580,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-04-01 00:00:00
+CMP01106,C0444,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-01-01 00:00:00
+CMP01107,C0843,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-09-15 00:00:00
+CMP01108,C0157,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-10-24 00:00:00
+CMP01109,C0731,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-06-27 00:00:00
+CMP01110,C0358,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-03-10 00:00:00
+CMP01111,C0258,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-06-10 00:00:00
+CMP01112,C0153,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-21 00:00:00
+CMP01113,C0430,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-03-15 00:00:00
+CMP01114,C0700,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-04-14 00:00:00
+CMP01115,C0249,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-02-22 00:00:00
+CMP01116,C0110,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-05-23 00:00:00
+CMP01117,C0584,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-06-21 00:00:00
+CMP01118,C0464,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-06 00:00:00
+CMP01119,C0561,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-08-01 00:00:00
+CMP01120,C0137,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-05-30 00:00:00
+CMP01121,C0919,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-26 00:00:00
+CMP01122,C0903,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-10-04 00:00:00
+CMP01123,C0186,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-10-28 00:00:00
+CMP01124,C0453,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-08-24 00:00:00
+CMP01125,C0646,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-09 00:00:00
+CMP01126,C0483,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-10-13 00:00:00
+CMP01127,C0057,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-04-12 00:00:00
+CMP01128,C0640,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-08-21 00:00:00
+CMP01129,C0389,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-08-20 00:00:00
+CMP01130,C0161,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-06-25 00:00:00
+CMP01131,C0546,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-07-17 00:00:00
+CMP01132,C0494,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-02-06 00:00:00
+CMP01133,C0454,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-10-14 00:00:00
+CMP01134,C0008,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-02-22 00:00:00
+CMP01135,C0599,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-01-13 00:00:00
+CMP01136,C0218,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-19 00:00:00
+CMP01137,C0982,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-04-13 00:00:00
+CMP01138,C0080,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-08-12 00:00:00
+CMP01139,C0481,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-05-08 00:00:00
+CMP01140,C0099,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-02-12 00:00:00
+CMP01141,C0722,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-01-07 00:00:00
+CMP01142,C0951,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-11 00:00:00
+CMP01143,C0590,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-03 00:00:00
+CMP01144,C0535,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-10-18 00:00:00
+CMP01145,C0374,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-04-17 00:00:00
+CMP01146,C0173,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-03-11 00:00:00
+CMP01147,C0072,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-03-09 00:00:00
+CMP01148,C0247,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-03-18 00:00:00
+CMP01149,C0214,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-06-21 00:00:00
+CMP01150,C0053,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-05-16 00:00:00
+CMP01151,C0255,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-06-11 00:00:00
+CMP01152,C0489,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-06-08 00:00:00
+CMP01153,C0110,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-01-27 00:00:00
+CMP01154,C0341,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-01-25 00:00:00
+CMP01155,C0307,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-07-30 00:00:00
+CMP01156,C0685,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-26 00:00:00
+CMP01157,C0278,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-04-27 00:00:00
+CMP01158,C0960,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-01-09 00:00:00
+CMP01159,C0966,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-03-16 00:00:00
+CMP01160,C0245,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-05-31 00:00:00
+CMP01161,C0634,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-02-06 00:00:00
+CMP01162,C0234,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-22 00:00:00
+CMP01163,C0575,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-07-16 00:00:00
+CMP01164,C0618,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-06-07 00:00:00
+CMP01165,C0660,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-04 00:00:00
+CMP01166,C0387,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-02-10 00:00:00
+CMP01167,C0728,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-05-28 00:00:00
+CMP01168,C0605,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-05 00:00:00
+CMP01169,C0185,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-08-06 00:00:00
+CMP01170,C0947,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-05-03 00:00:00
+CMP01171,C0943,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-06-03 00:00:00
+CMP01172,C0827,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-02-20 00:00:00
+CMP01173,C0633,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-05-08 00:00:00
+CMP01174,C0321,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-07-28 00:00:00
+CMP01175,C0386,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-01-21 00:00:00
+CMP01176,C0780,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-10-02 00:00:00
+CMP01177,C0995,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-05-13 00:00:00
+CMP01178,C0745,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-08-26 00:00:00
+CMP01179,C0632,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-08-16 00:00:00
+CMP01180,C0595,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-07-22 00:00:00
+CMP01181,C0510,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-28 00:00:00
+CMP01182,C0601,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-04 00:00:00
+CMP01183,C0759,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-03-03 00:00:00
+CMP01184,C0139,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-08-25 00:00:00
+CMP01185,C0760,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-01-17 00:00:00
+CMP01186,C0171,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-08-30 00:00:00
+CMP01187,C0049,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-02-25 00:00:00
+CMP01188,C0447,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-03-24 00:00:00
+CMP01189,C0926,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-07-05 00:00:00
+CMP01190,C0201,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-05-02 00:00:00
+CMP01191,C0626,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-01-01 00:00:00
+CMP01192,C0379,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-07-30 00:00:00
+CMP01193,C0288,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-08-08 00:00:00
+CMP01194,C0443,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-09-24 00:00:00
+CMP01195,C0769,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-04 00:00:00
+CMP01196,C0486,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-01 00:00:00
+CMP01197,C0520,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-01-17 00:00:00
+CMP01198,C0501,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-04-09 00:00:00
+CMP01199,C0092,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-03-20 00:00:00
+CMP01200,C0980,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-06-25 00:00:00
+CMP01201,C0886,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-09-25 00:00:00
+CMP01202,C0006,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-04-21 00:00:00
+CMP01203,C0261,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-04-28 00:00:00
+CMP01204,C0607,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-03-19 00:00:00
+CMP01205,C0227,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-25 00:00:00
+CMP01206,C0902,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-05-15 00:00:00
+CMP01207,C0128,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-02-19 00:00:00
+CMP01208,C0257,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-14 00:00:00
+CMP01209,C0615,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-04-02 00:00:00
+CMP01210,C0580,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-06-20 00:00:00
+CMP01211,C0427,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-01-15 00:00:00
+CMP01212,C0531,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-06-09 00:00:00
+CMP01213,C0831,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-03-21 00:00:00
+CMP01214,C0578,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-04-26 00:00:00
+CMP01215,C0940,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-03-28 00:00:00
+CMP01216,C0599,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-07-19 00:00:00
+CMP01217,C0846,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-02-26 00:00:00
+CMP01218,C0918,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-03-28 00:00:00
+CMP01219,C0222,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-05-14 00:00:00
+CMP01220,C0711,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-07-24 00:00:00
+CMP01221,C0369,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-07-05 00:00:00
+CMP01222,C0126,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-08-16 00:00:00
+CMP01223,C0156,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-02-21 00:00:00
+CMP01224,C0555,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-10 00:00:00
+CMP01225,C0685,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-10 00:00:00
+CMP01226,C0728,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-09 00:00:00
+CMP01227,C0014,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-02-07 00:00:00
+CMP01228,C0853,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-07-25 00:00:00
+CMP01229,C0439,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-09-23 00:00:00
+CMP01230,C0315,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-04-30 00:00:00
+CMP01231,C0032,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-01-05 00:00:00
+CMP01232,C0735,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-05-17 00:00:00
+CMP01233,C0230,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-03-04 00:00:00
+CMP01234,C0287,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-05-12 00:00:00
+CMP01235,C0949,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-01-20 00:00:00
+CMP01236,C0847,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-10-07 00:00:00
+CMP01237,C0968,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-05-05 00:00:00
+CMP01238,C0196,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-08-04 00:00:00
+CMP01239,C0114,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-01-21 00:00:00
+CMP01240,C0653,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-10-05 00:00:00
+CMP01241,C0395,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-09-05 00:00:00
+CMP01242,C0326,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-07-30 00:00:00
+CMP01243,C0214,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-01-29 00:00:00
+CMP01244,C0546,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-01-19 00:00:00
+CMP01245,C0804,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-07-31 00:00:00
+CMP01246,C0231,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-04-27 00:00:00
+CMP01247,C0726,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-07-09 00:00:00
+CMP01248,C0648,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-03 00:00:00
+CMP01249,C0185,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-09-02 00:00:00
+CMP01250,C0625,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-02-17 00:00:00
+CMP01251,C0308,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-01 00:00:00
+CMP01252,C0808,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-06-26 00:00:00
+CMP01253,C0061,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-06-26 00:00:00
+CMP01254,C0411,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-09-08 00:00:00
+CMP01255,C0936,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-06-10 00:00:00
+CMP01256,C0078,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-09-27 00:00:00
+CMP01257,C0695,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-05-16 00:00:00
+CMP01258,C0177,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-02-14 00:00:00
+CMP01259,C0897,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-10-05 00:00:00
+CMP01260,C0762,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-04-06 00:00:00
+CMP01261,C0250,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-03-17 00:00:00
+CMP01262,C0139,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-05-08 00:00:00
+CMP01263,C0358,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-14 00:00:00
+CMP01264,C0667,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-03-28 00:00:00
+CMP01265,C0007,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-03-06 00:00:00
+CMP01266,C0788,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-09-10 00:00:00
+CMP01267,C0437,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-03-28 00:00:00
+CMP01268,C0632,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-02-23 00:00:00
+CMP01269,C0394,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-03-08 00:00:00
+CMP01270,C0214,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-02-10 00:00:00
+CMP01271,C0647,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-07-27 00:00:00
+CMP01272,C0708,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-07-25 00:00:00
+CMP01273,C0243,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-06-20 00:00:00
+CMP01274,C0605,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-03-28 00:00:00
+CMP01275,C0801,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-02-18 00:00:00
+CMP01276,C0257,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-01-08 00:00:00
+CMP01277,C0364,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-09-18 00:00:00
+CMP01278,C0353,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-04-06 00:00:00
+CMP01279,C0672,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-29 00:00:00
+CMP01280,C0411,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-27 00:00:00
+CMP01281,C0361,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-01-16 00:00:00
+CMP01282,C0941,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-04-07 00:00:00
+CMP01283,C0985,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-09-26 00:00:00
+CMP01284,C0658,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-09-21 00:00:00
+CMP01285,C0652,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-10-23 00:00:00
+CMP01286,C0804,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-04-01 00:00:00
+CMP01287,C0490,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-21 00:00:00
+CMP01288,C0870,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-07-14 00:00:00
+CMP01289,C0009,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-08-16 00:00:00
+CMP01290,C0495,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-08-13 00:00:00
+CMP01291,C0181,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-02-21 00:00:00
+CMP01292,C0603,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-08-21 00:00:00
+CMP01293,C0603,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-01-10 00:00:00
+CMP01294,C0586,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-05-24 00:00:00
+CMP01295,C0606,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-07-03 00:00:00
+CMP01296,C0183,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-08 00:00:00
+CMP01297,C0673,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-03-15 00:00:00
+CMP01298,C0081,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-07-05 00:00:00
+CMP01299,C0009,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-05-17 00:00:00
+CMP01300,C0456,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-06-08 00:00:00
+CMP01301,C0938,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-06-10 00:00:00
+CMP01302,C0192,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-06-27 00:00:00
+CMP01303,C0110,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-05-10 00:00:00
+CMP01304,C0604,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-06-13 00:00:00
+CMP01305,C0636,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-01-26 00:00:00
+CMP01306,C0672,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-03-21 00:00:00
+CMP01307,C0329,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-09-26 00:00:00
+CMP01308,C0261,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-05-20 00:00:00
+CMP01309,C0846,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-15 00:00:00
+CMP01310,C0893,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-08-06 00:00:00
+CMP01311,C0916,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-07-28 00:00:00
+CMP01312,C0597,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-03-08 00:00:00
+CMP01313,C0119,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-07-21 00:00:00
+CMP01314,C0407,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-08-06 00:00:00
+CMP01315,C0455,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-03-11 00:00:00
+CMP01316,C0265,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-01-28 00:00:00
+CMP01317,C0055,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-07-10 00:00:00
+CMP01318,C0347,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-04-30 00:00:00
+CMP01319,C0841,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-09-14 00:00:00
+CMP01320,C0209,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-01-29 00:00:00
+CMP01321,C0365,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-01-22 00:00:00
+CMP01322,C0076,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-03-02 00:00:00
+CMP01323,C0279,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-03-03 00:00:00
+CMP01324,C0380,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-08-10 00:00:00
+CMP01325,C0297,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-08-02 00:00:00
+CMP01326,C0643,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-05-08 00:00:00
+CMP01327,C0705,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-05 00:00:00
+CMP01328,C0019,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-04-07 00:00:00
+CMP01329,C0514,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-09-01 00:00:00
+CMP01330,C0753,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-09-27 00:00:00
+CMP01331,C0858,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-01-02 00:00:00
+CMP01332,C0538,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-10-15 00:00:00
+CMP01333,C0687,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-07-15 00:00:00
+CMP01334,C0188,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-02-03 00:00:00
+CMP01335,C0220,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-02-08 00:00:00
+CMP01336,C0629,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-03-31 00:00:00
+CMP01337,C0413,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-01-28 00:00:00
+CMP01338,C0283,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-08-28 00:00:00
+CMP01339,C0947,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-06-21 00:00:00
+CMP01340,C0853,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-08-23 00:00:00
+CMP01341,C0192,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-09-21 00:00:00
+CMP01342,C0136,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-03-12 00:00:00
+CMP01343,C0843,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-08-15 00:00:00
+CMP01344,C0452,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-08-12 00:00:00
+CMP01345,C0838,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-02 00:00:00
+CMP01346,C0794,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-07 00:00:00
+CMP01347,C0715,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-02-17 00:00:00
+CMP01348,C0416,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-05-09 00:00:00
+CMP01349,C0044,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-10-19 00:00:00
+CMP01350,C0400,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-05-07 00:00:00
+CMP01351,C0376,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-04-22 00:00:00
+CMP01352,C0564,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-09-10 00:00:00
+CMP01353,C0602,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-05-31 00:00:00
+CMP01354,C0290,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-04-27 00:00:00
+CMP01355,C0582,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-01-03 00:00:00
+CMP01356,C0281,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-08-07 00:00:00
+CMP01357,C0931,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-07-06 00:00:00
+CMP01358,C0849,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-06-17 00:00:00
+CMP01359,C0524,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-06-24 00:00:00
+CMP01360,C0677,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-04-30 00:00:00
+CMP01361,C0328,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-10-24 00:00:00
+CMP01362,C0895,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-07-11 00:00:00
+CMP01363,C0914,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-02-14 00:00:00
+CMP01364,C0296,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-08-20 00:00:00
+CMP01365,C0410,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-06-01 00:00:00
+CMP01366,C0283,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-02-19 00:00:00
+CMP01367,C0571,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-03-30 00:00:00
+CMP01368,C0263,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-06-28 00:00:00
+CMP01369,C0928,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-10-05 00:00:00
+CMP01370,C0114,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-02-07 00:00:00
+CMP01371,C0647,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-10-10 00:00:00
+CMP01372,C0906,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-03-01 00:00:00
+CMP01373,C0190,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-07-18 00:00:00
+CMP01374,C0287,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-08-23 00:00:00
+CMP01375,C0674,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-03-19 00:00:00
+CMP01376,C0921,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-03-29 00:00:00
+CMP01377,C0067,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-06-02 00:00:00
+CMP01378,C0800,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-05-16 00:00:00
+CMP01379,C0971,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-10-08 00:00:00
+CMP01380,C0295,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-03-26 00:00:00
+CMP01381,C0401,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-10-22 00:00:00
+CMP01382,C0965,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-09-29 00:00:00
+CMP01383,C0259,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-07-04 00:00:00
+CMP01384,C0099,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-06-16 00:00:00
+CMP01385,C0711,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-08-06 00:00:00
+CMP01386,C0384,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-04-02 00:00:00
+CMP01387,C0813,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-08-19 00:00:00
+CMP01388,C0015,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-04-29 00:00:00
+CMP01389,C0820,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-10-25 00:00:00
+CMP01390,C0883,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-07-19 00:00:00
+CMP01391,C0912,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-05-18 00:00:00
+CMP01392,C0204,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-03-11 00:00:00
+CMP01393,C0905,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-05-11 00:00:00
+CMP01394,C0854,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-02-20 00:00:00
+CMP01395,C0575,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-04-13 00:00:00
+CMP01396,C0476,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-08-22 00:00:00
+CMP01397,C0153,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-04-10 00:00:00
+CMP01398,C0075,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-03-28 00:00:00
+CMP01399,C0194,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-02-04 00:00:00
+CMP01400,C0213,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-03-24 00:00:00
+CMP01401,C0020,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-10-04 00:00:00
+CMP01402,C0908,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-09-15 00:00:00
+CMP01403,C0309,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-08-08 00:00:00
+CMP01404,C0236,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-03-22 00:00:00
+CMP01405,C0999,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-06-13 00:00:00
+CMP01406,C0584,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-01-20 00:00:00
+CMP01407,C0171,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-10-21 00:00:00
+CMP01408,C0051,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-03-17 00:00:00
+CMP01409,C0322,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-09-20 00:00:00
+CMP01410,C0647,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-07-12 00:00:00
+CMP01411,C0448,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-07-06 00:00:00
+CMP01412,C0522,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-07-26 00:00:00
+CMP01413,C0556,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-09-12 00:00:00
+CMP01414,C0990,D004,CAT008,Complaint about CAT008 issue in area XYZ,Closed,2023-09-07 00:00:00
+CMP01415,C0537,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-01-19 00:00:00
+CMP01416,C0138,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-14 00:00:00
+CMP01417,C0421,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-07-06 00:00:00
+CMP01418,C0598,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-03-01 00:00:00
+CMP01419,C0412,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-07-16 00:00:00
+CMP01420,C0778,D001,CAT005,Complaint about CAT005 issue in area XYZ,Closed,2023-03-09 00:00:00
+CMP01421,C0006,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-07-26 00:00:00
+CMP01422,C0938,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-10-22 00:00:00
+CMP01423,C0777,D002,CAT002,Complaint about CAT002 issue in area XYZ,Submitted,2023-05-20 00:00:00
+CMP01424,C0477,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-03-02 00:00:00
+CMP01425,C0401,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-10-22 00:00:00
+CMP01426,C0331,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-07-05 00:00:00
+CMP01427,C0253,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-01-31 00:00:00
+CMP01428,C0312,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-04-22 00:00:00
+CMP01429,C0845,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-08-08 00:00:00
+CMP01430,C0115,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-01-09 00:00:00
+CMP01431,C0709,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-07-25 00:00:00
+CMP01432,C0239,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-05-06 00:00:00
+CMP01433,C0189,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-10-13 00:00:00
+CMP01434,C0140,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-06-15 00:00:00
+CMP01435,C0783,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-04-26 00:00:00
+CMP01436,C0744,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-02-03 00:00:00
+CMP01437,C0239,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-09-27 00:00:00
+CMP01438,C0851,D004,CAT008,Complaint about CAT008 issue in area XYZ,In Progress,2023-03-21 00:00:00
+CMP01439,C0801,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-09-10 00:00:00
+CMP01440,C0395,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-05-04 00:00:00
+CMP01441,C0080,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-06-02 00:00:00
+CMP01442,C0766,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-07-29 00:00:00
+CMP01443,C0532,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-01-05 00:00:00
+CMP01444,C0519,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-08-28 00:00:00
+CMP01445,C0593,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-01-26 00:00:00
+CMP01446,C0640,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-01-13 00:00:00
+CMP01447,C0518,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-08-09 00:00:00
+CMP01448,C0705,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-03-19 00:00:00
+CMP01449,C0394,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-03-07 00:00:00
+CMP01450,C0663,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-07-09 00:00:00
+CMP01451,C0065,D009,CAT004,Complaint about CAT004 issue in area XYZ,Closed,2023-08-19 00:00:00
+CMP01452,C0464,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-08-13 00:00:00
+CMP01453,C0329,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-08-04 00:00:00
+CMP01454,C0294,D001,CAT005,Complaint about CAT005 issue in area XYZ,Resolved,2023-01-19 00:00:00
+CMP01455,C0600,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-08-31 00:00:00
+CMP01456,C0777,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-10-05 00:00:00
+CMP01457,C0766,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-03-15 00:00:00
+CMP01458,C0691,D009,CAT004,Complaint about CAT004 issue in area XYZ,In Progress,2023-09-06 00:00:00
+CMP01459,C0943,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-05-10 00:00:00
+CMP01460,C0923,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-08-09 00:00:00
+CMP01461,C0808,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-10-21 00:00:00
+CMP01462,C0035,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-07-26 00:00:00
+CMP01463,C0386,D005,CAT007,Complaint about CAT007 issue in area XYZ,Submitted,2023-10-19 00:00:00
+CMP01464,C0398,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-09-05 00:00:00
+CMP01465,C0682,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-09-24 00:00:00
+CMP01466,C0190,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-05-28 00:00:00
+CMP01467,C0771,D007,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-03-14 00:00:00
+CMP01468,C0336,D006,CAT006,Complaint about CAT006 issue in area XYZ,Resolved,2023-06-17 00:00:00
+CMP01469,C0313,D009,CAT004,Complaint about CAT004 issue in area XYZ,Resolved,2023-06-26 00:00:00
+CMP01470,C0473,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-04-06 00:00:00
+CMP01471,C0771,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-10-14 00:00:00
+CMP01472,C0790,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-03-14 00:00:00
+CMP01473,C0339,D007,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-10-17 00:00:00
+CMP01474,C0352,D002,CAT002,Complaint about CAT002 issue in area XYZ,In Progress,2023-06-14 00:00:00
+CMP01475,C0950,D005,CAT007,Complaint about CAT007 issue in area XYZ,Closed,2023-09-23 00:00:00
+CMP01476,C0274,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-07-08 00:00:00
+CMP01477,C0640,D006,CAT006,Complaint about CAT006 issue in area XYZ,In Progress,2023-07-09 00:00:00
+CMP01478,C0721,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-07-09 00:00:00
+CMP01479,C0705,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-08-25 00:00:00
+CMP01480,C0160,D006,CAT006,Complaint about CAT006 issue in area XYZ,Submitted,2023-07-22 00:00:00
+CMP01481,C0517,D002,CAT002,Complaint about CAT002 issue in area XYZ,Resolved,2023-01-23 00:00:00
+CMP01482,C0347,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-08-10 00:00:00
+CMP01483,C0791,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-04-13 00:00:00
+CMP01484,C0652,D005,CAT007,Complaint about CAT007 issue in area XYZ,Resolved,2023-03-28 00:00:00
+CMP01485,C0675,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-06-28 00:00:00
+CMP01486,C0927,D001,CAT005,Complaint about CAT005 issue in area XYZ,Submitted,2023-07-09 00:00:00
+CMP01487,C0366,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-02-20 00:00:00
+CMP01488,C0235,D008,CAT003,Complaint about CAT003 issue in area XYZ,Closed,2023-09-15 00:00:00
+CMP01489,C0544,D003,CAT001,Complaint about CAT001 issue in area XYZ,Resolved,2023-03-04 00:00:00
+CMP01490,C0184,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-06-04 00:00:00
+CMP01491,C0675,D007,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-04-24 00:00:00
+CMP01492,C0009,D003,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-02-20 00:00:00
+CMP01493,C0499,D003,CAT001,Complaint about CAT001 issue in area XYZ,In Progress,2023-09-21 00:00:00
+CMP01494,C0607,D006,CAT006,Complaint about CAT006 issue in area XYZ,Closed,2023-07-16 00:00:00
+CMP01495,C0443,D008,CAT003,Complaint about CAT003 issue in area XYZ,Submitted,2023-03-11 00:00:00
+CMP01496,C0086,D007,CAT001,Complaint about CAT001 issue in area XYZ,Closed,2023-10-16 00:00:00
+CMP01497,C0467,D009,CAT004,Complaint about CAT004 issue in area XYZ,Submitted,2023-07-13 00:00:00
+CMP01498,C0650,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-07-01 00:00:00
+CMP01499,C0993,D004,CAT008,Complaint about CAT008 issue in area XYZ,Submitted,2023-08-08 00:00:00
+CMP01500,C0923,D005,CAT007,Complaint about CAT007 issue in area XYZ,In Progress,2023-08-19 00:00:00
+CMP01501,C0770,D008,CAT003,Complaint about CAT003 issue in area XYZ,In Progress,2023-02-11 00:00:00
+CMP01502,C0195,D004,CAT008,Complaint about CAT008 issue in area XYZ,Resolved,2023-08-21 00:00:00
+CMP01503,C0277,D003,CAT001,Complaint about CAT001 issue in area XYZ,Submitted,2023-03-09 00:00:00
+CMP01504,C0391,D008,CAT003,Complaint about CAT003 issue in area XYZ,Resolved,2023-06-23 00:00:00
+CMP01505,C0094,D001,CAT005,Complaint about CAT005 issue in area XYZ,In Progress,2023-08-26 00:00:00
+CMP01506,C0659,D002,CAT002,Complaint about CAT002 issue in area XYZ,Closed,2023-05-29 00:00:00
